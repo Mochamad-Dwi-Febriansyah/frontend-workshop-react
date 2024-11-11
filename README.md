@@ -1,8 +1,39 @@
-# React + Vite
+## Prasyarat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Node.js dan npm harus terpasang di komputer Anda. Anda bisa mengunduhnya dari [https://nodejs.org/](https://nodejs.org/).
 
-Currently, two official plugins are available:
+## Cara Menjalankan Proyek
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ikuti langkah-langkah di bawah ini untuk mengunduh dan menjalankan proyek ini di komputer Anda.
+
+### 1. Clone Repositori
+
+Clone repositori ini ke komputer lokal Anda dengan perintah berikut:
+
+```bash
+git clone https://github.com/Mochamad-Dwi-Febriansyah/frontend-workshop-react.git
+```
+### 2.  Masuk ke folder project
+
+Masuk ke direktori proyek:
+
+```bash
+cd frontend-workshop-react
+```
+### 3.  Install Dependencies
+
+Install semua dependencies yang diperlukan dengan perintah:
+
+```bash
+npm install
+```
+
+### 4.  Jalankan Proyek
+
+Jalankan aplikasi React dengan perintah berikut:
+
+```bash
+npm start
+```
+
+
